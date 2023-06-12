@@ -50,7 +50,8 @@ _Las herramientas Freeware que se han utilizado para crear el trabajo_
 * <b> Agentes de Nagios </b> -Usados para la integración de los Procesos y la ejecución remota de comandos
     * [NSClient++](https://nsclient.org/#download-nsclient) - Agente que se pueden usar para monitorizar dispositivos Windows
     * [NRPE](http://assets.nagios.com/downloads/nagiosxi/agents/linux-nrpe-agent.tar.gz) - Agente para la máquina Linux
-
+    <img src="img/NRPE_vs_NSClient++.png"   width="500"/>
+    
 ## Autor ✒️
 * **José Pizarro Medina** - [jopizmed](https://github.com/jopizmed)
 
