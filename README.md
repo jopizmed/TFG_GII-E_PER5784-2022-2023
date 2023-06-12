@@ -20,16 +20,13 @@ Eficiencia energética en accesos corporativos a Escritorios Remotos con reutili
 <h5> <b> Arquitectura del proceso VPN SSL + <i>WoL</i> </b></h5>
 <img src="img/arquitectura_VPN+WoL.jpg"   width="1000"/>
 <br>
-<br>
 <hr size="2px" color="green" />
 <br>
 <h4> <b> Diagrama de Actividad del Proceso de Apagado</b></h4>
 <img src="img/UML_Actividades_Apagado.jpg"   width="1000"/>
 <br>
-<br>
 <h5> <b> Arquitectura del proceso de Apagado (<i>Shutdown</i>)</b></h5>
 <img src="img/arquitectura_Shutdown.jpg"   width="1000"/>
-<br>
 <br>
 <hr size="2px" color="green" />
 
